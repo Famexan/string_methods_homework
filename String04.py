@@ -8,4 +8,4 @@ def main(s):
     """
     if s == s.lower()
 
-        return s
+        return True
